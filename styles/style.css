@@ -148,8 +148,7 @@ body {
 
 .apresentacao__fotodeperfil {
 
-  width:50%;
-  
+  width:30%;
   border: 5px solid var(--cor-secundaria) ;
   padding: 5px;
   border-radius: 30px;
@@ -174,7 +173,7 @@ body {
 @media(max-width:1180px){
 
   .cabecalho{
-    padding:10% ;
+    padding:4% ;
   }
 
   .cabecalho__menu{
@@ -184,7 +183,7 @@ body {
   .apresentacao{
     
     flex-direction: column-reverse;
-    padding: 6%;
+    padding: 4%;
   }
 
   .apresentacao__conteudo{
